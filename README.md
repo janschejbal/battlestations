@@ -19,13 +19,13 @@ Greyscale mode can be useful when handling memetic hazards like the McCollough e
 
 ### Restart Gnome
 
-> Alt+F2 `r` Enter
+<kbd>Alt</kbd>+<kbd>F2</kbd> `r` <kbd>Enter</kbd>
 
 Useful when you've accidentally blacked out your screen with the wrong effect...
 
 ### Looking Glass
 
-> Alt+F2 `lg` Enter
+<kbd>Alt</kbd>+<kbd>F2</kbd> `lg` <kbd>Enter</kbd>
 
 or
 
@@ -61,7 +61,7 @@ or shell:
 
 Looking Glass:
 
-   Main.uiGroup.clear_effects()
+    Main.uiGroup.clear_effects()
 
 Shell:
 
